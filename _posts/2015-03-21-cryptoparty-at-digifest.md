@@ -16,4 +16,4 @@ Location of Digifest is the [Corus Quay building](http://www.yelp.ca/biz/corus-q
 starting at 10AM and running until 4pm. We'll be there in full
 force and most importantly: Admission is $FREE$!
 
-![Corus Quay building](https://torontocrypto.org/img/o.jpg)
+![Corus Quay building](https://www.torontocrypto.org/img/o.jpg)

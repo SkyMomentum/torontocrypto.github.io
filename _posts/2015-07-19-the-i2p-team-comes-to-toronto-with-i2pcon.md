@@ -8,7 +8,7 @@ keywords: i2pcon, borgil, CryptoParty, PGP, encryption, hacking, security, priva
 author: j
 ---
 
-If you've been [as interested in I2P as we have](https://torontocrypto.org/blog/2015/07/09/how-our-irc-chat-bot-helps-you-talk-to-us-anonymously.html) or if
+If you've been [as interested in I2P as we have](https://www.torontocrypto.org/blog/2015/07/09/how-our-irc-chat-bot-helps-you-talk-to-us-anonymously.html) or if
 you've been wondering [what alternatives to Tor exist out
 there](https://geti2p.net/en/comparison/tor), we're happy to present the answer to your questions with
 [I2PCon](https://geti2p.net/en/blog/post/2015/07/16/I2PCon). The I2P team has
@@ -24,4 +24,4 @@ spot at the event](http://www.eventbrite.ca/e/i2p-meetup-tickets-17773984466)! S
 We'll see you at the conference. Remember to donate
 to Hacklab and I2P while there!
 
-![I2PCon](https://torontocrypto.org/img/i2p_con.jpg)
+![I2PCon](https://www.torontocrypto.org/img/i2p_con.jpg)
