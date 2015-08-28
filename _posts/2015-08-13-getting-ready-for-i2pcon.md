@@ -21,7 +21,7 @@ the hopes of everyone [having more Crypto Parties!](https://www.cryptoparty.in/p
 This CryptoStation is called Secure Identities with I2P-Bote.
 This station is a VirtualBox appliance that can be deployed
 quickly to send secure, anonymous messages over the I2P network.
-Download [this torrent](/files/tcp-i2p-appliance.torrent) and dive
+Download [this torrent](/files/tcp_i2p_appliance.torrent) and dive
 right in - documentation is included to help with install and configuration.
 
 Thank you, see you at [Hacklab](https://hacklab.to)!
